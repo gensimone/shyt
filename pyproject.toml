@@ -5,7 +5,8 @@ description = "Shell-like program for downloading YouTube content using the Inne
 authors = [
     {name = "Simone Gentili",email = "gensimone.git@gmail.com"}
 ]
-license = {text = "GPL"}
+license = "GPLv3"
+license-files = [ "LICENSE" ]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
