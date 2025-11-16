@@ -1,6 +1,6 @@
 [project]
 name = "shyt"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shell-like program for downloading YouTube content using the InnerTune API."
 authors = [
     {name = "Simone Gentili",email = "gensimone.git@gmail.com"}
